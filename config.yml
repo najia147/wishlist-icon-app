@@ -1,0 +1,9 @@
+live:
+  password: shptka_79935cbcbfdb5086a163a43473369e82
+  theme_id: "171189666101"
+  store: najia-store-dev.myshopify.com
+
+development:
+  password: shptka_79935cbcbfdb5086a163a43473369e82
+  theme_id: "171753079093"
+  store: najia-store-dev.myshopify.com
